@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guice-5.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/guice-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
